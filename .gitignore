@@ -1,0 +1,106 @@
+
+# Compiled object files
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.idb
+*.pdb
+*.cache
+
+# Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+# Uncomment if you have tasks that create the .vs directory
+# (e.g. switch back to your preferred linter/formatting when using VS)
+# !.vs/
+
+# NuGet
+*.nupkg
+# NuGet Packages
+**/packages/
+# Uncomment if necessary however generally it will be regenerated when needed
+# **/NuGet.Config
+# **/NuGet.exe
+# **/NuGetScratch/
+# **/project.lock.json
+# **/project.fragment.lock.json
+# Uncomment if necessary however generally it will be generated when needed
+# **/artifacts/
+
+# Yarn
+.yarn/
+.pnp.*
+.yarnrc.yml
+
+# Logs
+*.log
+
+# NPM
+node_modules/
+
+# OS generated files
+*.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+*.swp
+._*
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+
+# Resharper
+*.ReSharper
+*.DotSettings
+
+# Mac
+*.DS_Store
+
+# VS Code
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+.ionide/
+
+# Windows shortcut files
+*.lnk
